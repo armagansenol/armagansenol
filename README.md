@@ -1,6 +1,6 @@
 # Hi there, I'm Armağan!
 
-I’m a **Frontend Developer** passionate about building user-centric web applications with modern tools and frameworks like **React**, **Next.js**, and **Node.js**.
+I’m a **Frontend Developer** passionate about building web applications with modern tools and frameworks like **React**, **Next.js**, and **Node.js**.
 
 ## About Me
 
