@@ -4,7 +4,7 @@ I’m a **Frontend Developer** passionate about building web applications with m
 
 ## About Me
 
-- I specialize in creating dynamic, responsive, and accessible web applications.
+- I specialize in creating dynamic, responsive, and visually appealing web applications.
 - Proficient in **JavaScript**, **TypeScript**, **CSS/Sass**, and modern **UI libraries**.
 - Continuously exploring new technologies to stay at the forefront of the web development world.
 
