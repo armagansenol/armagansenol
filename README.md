@@ -15,6 +15,5 @@ I work with modern technologies like **React**, **Next.js**, **TypeScript**, and
 - SaaS platforms  
 - Headless commerce  
 - Interactive UI & motion  
-- Performance optimization  
 
 [LinkedIn](https://www.linkedin.com/in/armagansenol) · [Portfolio](https://linktr.ee/armagansenol)
