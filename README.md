@@ -2,8 +2,6 @@
 
 Full-Stack Developer focused on building scalable, high-performance web applications and digital products.
 
-I work with modern technologies like **React**, **Next.js**, **TypeScript**, and **Node.js**.
-
 ## Stack
 - React · Next.js · TypeScript  
 - Node.js · Express  
